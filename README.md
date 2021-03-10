@@ -26,7 +26,7 @@
 
 |No | Name                  | Study Group   | GitHub ID            |Github Repo for portfolio website                      |Netlify website address              |Date Added     |  
 |:---|:----------------------|:--------------|:---------------------|:------------------------------------------------------|:------------------------------------|:-----------------------| 
-|00|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 |
+|02|Bakouan Youba   | none     | Y0uBs0N |<https://github.com/bakouan-youba/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 |
 |01|Othman Bensouda   | 2     | OthmanBensouda |<https://github.com/OthmanBensouda/Orion>   |<https://othman-portfolio.netlify.app/>        |2020-09-01 |
 |02|Filippo de Bortoli | 14 | filippodebortolilbs |<https://github.com/filippodebortolilbs/filippodebortoli_portfolio> | <https://fdbportfolio.netlify.app/> | 2020-09-03| 
 |03|Brigita Angkasa   | 10     | brigitaangkasa |<https://github.com/brigitaangkasa/my_website>   |<https://brigita-portfolio.netlify.app/>        |2020-09-03 |
